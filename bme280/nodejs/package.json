@@ -1,0 +1,14 @@
+{
+  "name": "bme280-rpi",
+  "version": "1.0.0",
+  "description": "BME280 Raspberry Pi Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Hiroki Kawakami",
+  "license": "ISC",
+  "dependencies": {
+    "i2c-bus": "^5.2.1"
+  }
+}
